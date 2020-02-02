@@ -1,0 +1,2 @@
+1. Recognize individual fingers
+2. Volume control with finger swipe gestures
